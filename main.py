@@ -9,3 +9,4 @@ if __name__ == "__main__":
 version = 'v0.1-feature'
 author = 'Instructor'
 author = 'Instructor 1'
+version = 'v0.2-feature'
