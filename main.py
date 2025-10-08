@@ -8,4 +8,9 @@ if __name__ == "__main__":
 # resolved metadata:
 version = 'v0.1-feature'
 author = 'Instructor'
+<<<<<<< HEAD
 #test2
+=======
+
+#test1
+>>>>>>> 5cc8e4db2e63450caac0964860d183b7499315eb
