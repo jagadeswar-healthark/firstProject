@@ -6,7 +6,8 @@ if __name__ == "__main__":
     print(greet())
 
 # resolved metadata:
-version = 'v0.1-feature'
-author = 'Instructor'
-author = 'Instructor 1'
-version = 'v0.2-feature'
+# version = 'v0.1-feature'
+# author = 'Instructor'
+# author = 'Instructor 1'
+# version = 'v0.2-feature'
+
